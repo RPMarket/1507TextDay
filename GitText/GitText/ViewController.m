@@ -10,6 +10,15 @@
 
 @interface ViewController ()
 
+
+
+
+@property(nonatomic,strong)NSString*text;
+
+
+
+
+
 @end
 
 @implementation ViewController
